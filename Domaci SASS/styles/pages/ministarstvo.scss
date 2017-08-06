@@ -1,0 +1,228 @@
+body{
+    font-family: 'Open Sans';
+}
+
+div{
+    position: relative;
+}
+
+.title{
+    font-size: 32px;
+    font-weight: 700;
+    -webkit-text-fill-color: white;
+    padding-bottom: 30px;
+    width: 90%;
+}
+
+.content{
+    -webkit-text-fill-color: white;
+    font-size: $text-font;
+    line-height: 28px;
+}
+
+
+
+.general__smallheader{
+    font-style: italic;
+    margin-bottom: 15px;
+    -webkit-text-fill-color: white;
+}
+
+.general__button{   
+    height: $button-height;
+    width: $button-width;
+    line-height: $button-height;
+    background-color: $button-color;
+    display: block;
+    overflow: hidden;
+    font-weight: bolder;
+    -webkit-box-shadow: 0 5px 15px -1px rgba(0,0,0,.7);
+    -moz-box-shadow: 0 5px 15px -1px rgba(0,0,0,.7);
+    box-shadow: 0 5px 15px -1px rgba(0,0,0,.7);
+}
+
+.general__button:hover{
+    background-color: $button-hover-color;
+    transition-duration: .25s;
+}
+
+.trgovina_ljudima{
+    border-top-right-radius: $button-border-radius;
+    border-top-left-radius: $button-border-radius;
+}
+
+.general__button:last-child{
+    border-bottom-left-radius: $button-border-radius;
+    border-bottom-right-radius: $button-border-radius;    
+    -webkit-box-shadow: 2px -1px 12px 0px rgba(0,0,0,0.06);
+    -moz-box-shadow: 2px -1px 12px 0px rgba(0,0,0,0.06);
+    box-shadow: 2px -1px 12px 0px rgba(0,0,0,0.06);
+}
+
+.general__button_content{
+    font-size: $text-font;
+}
+
+.trgovina_ljudima_icon{
+     background-image: url('../images/human-trafficking.svg');
+}
+
+.korupcija_icon{
+     background-image: url('../images/corruption.svg');
+}
+ 
+.promet_icon{
+     background-image: url('../images/road-safety.svg');
+}
+
+.droga_icon{
+     background-image: url('../images/drug-abuse.svg');
+}
+
+
+@media (max-width: 1900px) {
+    .general__container{
+        padding-left: 25%;
+    }
+}
+
+@media (max-width: 1530px) {
+    .general__container{
+        padding-left: 15%;
+    }
+
+}
+
+
+@media (max-width: 1330px) {
+    .content{
+        font-size: $text-font1090;
+    }
+
+    .general__button{  
+        width: $button-width1090;
+        height: $button-height1090;
+    }
+
+    .general__button_content{
+        font-size: $text-font1090;
+    }
+
+    .general__container{
+        width: 950px;
+        padding-left: 12%;
+    }
+
+    .content{
+        width: 100%;
+    }
+}
+
+
+@media (max-width: 1130px) {
+    .content{
+        font-size: $text-font1090;
+    }
+
+    .general__button{  
+        width: $button-width1090;
+        height: $button-height1090;
+    }
+
+    .general__button_content{
+        font-size: $text-font1090;
+    }
+
+    .general__container{
+        width: 950px;
+    }
+
+    .content{
+        width: 90%;
+    }
+
+    .slobodnizasticenisigurni{
+        height: 680px;
+    }
+}
+
+@media (max-width: 1060px) {
+
+    .title{
+        width: 150%;
+    }
+
+    .general__contentcontainer{
+        float: none;
+        margin-top: 50px;
+        box-sizing: border-box;
+    }
+
+    .general__container{
+        padding-top: 20px;
+    }
+
+    .content{
+        font-size: 22px;
+        width: 190%;
+    }
+
+    .general__container{
+        width: 100%;
+        padding-left: 55px;
+    }
+
+    .general__buttonlist{
+        margin-left: 220px;
+        margin-top: 40px;
+        width: 90%;
+    }
+
+    .slobodnizasticenisigurni{
+        height: 800px;
+    }
+
+    .general__button{  
+        width: $button-width;
+        height: $button-height;
+    }
+
+    .general__button_content{
+        font-size: 17px;
+    }
+}
+
+
+@media (min-width: 0px) and (max-width: 1016px) {
+    
+    .title{
+        width: 150%;
+    }
+
+    .content{
+        font-size: 22px;
+        width: 180%;
+    }
+    
+    .slobodnizasticenisigurni{
+        height: 800px;
+    }
+    
+    .general__buttonlist{
+        margin-left: 190px;
+        margin-top: 40px;
+    } 
+    
+    .general__button{  
+        width: $button-width;
+        height: $button-height;
+    }
+
+    .general__button_content{
+        font-size: 17px;
+    }
+
+}
+
+
+

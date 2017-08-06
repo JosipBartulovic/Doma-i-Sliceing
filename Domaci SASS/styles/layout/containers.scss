@@ -1,0 +1,39 @@
+.general__container{
+    padding-top: 60px;
+    padding-left: 50px;
+    width: 1000px;
+    margin-top: 200px;
+
+}
+
+.slobodnizasticenisigurni{
+    height: 550px;
+    width: 100%;
+    background-image: url('../images/national-programs-background.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.general__contentcontainer{
+    margin-top: 100px;
+    float: right;
+    content: "";
+    display: table;
+    clear: both;
+    width: 500px;
+}
+
+
+.general__button_icon{
+    float: left;
+    content: "";
+    display: table;
+    clear: both;
+    width: $button-size;
+    height: $button-size;
+    margin-top: 28px;
+    margin-left: 32px;
+    margin-right: 20px;
+    background-repeat: no-repeat;
+}
