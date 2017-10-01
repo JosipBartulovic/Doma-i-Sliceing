@@ -1,0 +1,294 @@
+﻿{
+  "novosti": [
+    {
+      "id": 0,
+      "Naslov": "Tvoja mama je debela :O",
+      "Rating": 1,
+      "Komentari": [
+        {
+          "id": 0,
+          "Tekst": "Ajme stvarno"
+        },
+        {
+          "id": 1,
+          "Tekst": "Nemoj me zezat"
+        },
+        {
+          "id": 2,
+          "Tekst": "To MASOOO"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "Naslov": "Skalpirao manekenku, iščupao dijelove tijela i ostavio uz bebu",
+      "Rating": 1,
+      "Komentari": [
+        {
+          "id": 0,
+          "Tekst": "Koi lik"
+        },
+        {
+          "id": 1,
+          "Tekst": "Watch my stream on twitch.tv/LittleIndianBoy.com"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "Naslov": "Skalpirao manekenku, iščupao dijelove tijela i ostavio uz bebu",
+      "Rating": 2,
+      "Komentari": [
+        {
+          "id": 0,
+          "Tekst": "Koi lik"
+        },
+        {
+          "id": 1,
+          "Tekst": "Watch my stream on twitch.tv/LittleIndianBoy.com"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "Naslov": "Skalpirao manekenku, iščupao dijelove tijela i ostavio uz bebu",
+      "Rating": 3,
+      "Komentari": [
+        {
+          "id": 0,
+          "Tekst": "Koi lik"
+        },
+        {
+          "id": 1,
+          "Tekst": "Watch my stream on twitch.tv/LittleIndianBoy.com"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "Naslov": "Skalpirao manekenku, iščupao dijelove tijela i ostavio uz bebu",
+      "Rating": 5,
+      "Komentari": [
+        {
+          "id": 0,
+          "Tekst": "Koi lik"
+        },
+        {
+          "id": 1,
+          "Tekst": "Watch my stream on twitch.tv/LittleIndianBoy.com"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "Naslov": "Skalpirao manekenku, iščupao dijelove tijela i ostavio uz bebu",
+      "Rating": 6,
+      "Komentari": [
+        {
+          "id": 0,
+          "Tekst": "Koi lik"
+        },
+        {
+          "id": 1,
+          "Tekst": "Watch my stream on twitch.tv/LittleIndianBoy.com"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "Naslov": "Skalpirao manekenku, iščupao dijelove tijela i ostavio uz bebu",
+      "Rating": 7,
+      "Komentari": [
+        {
+          "id": 0,
+          "Tekst": "Koi lik"
+        },
+        {
+          "id": 1,
+          "Tekst": "Watch my stream on twitch.tv/LittleIndianBoy.com"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "Naslov": "Skalpirao manekenku, iščupao dijelove tijela i ostavio uz bebu",
+      "Rating": 8,
+      "Komentari": [
+        {
+          "id": 0,
+          "Tekst": "Koi lik"
+        },
+        {
+          "id": 1,
+          "Tekst": "Watch my stream on twitch.tv/LittleIndianBoy.com"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "Naslov": "Skalpirao manekenku, iščupao dijelove tijela i ostavio uz bebu",
+      "Rating": 9,
+      "Komentari": [
+        {
+          "id": 0,
+          "Tekst": "Koi lik"
+        },
+        {
+          "id": 1,
+          "Tekst": "Watch my stream on twitch.tv/LittleIndianBoy.com"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "Naslov": "Skalpirao manekenku, iščupao dijelove tijela i ostavio uz bebu",
+      "Rating": 10,
+      "Komentari": [
+        {
+          "id": 0,
+          "Tekst": "Koi lik"
+        },
+        {
+          "id": 1,
+          "Tekst": "Watch my stream on twitch.tv/LittleIndianBoy.com"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "Naslov": "Skalpirao manekenku, iščupao dijelove tijela i ostavio uz bebu",
+      "Rating": 0,
+      "Komentari": [
+        {
+          "id": 0,
+          "Tekst": "Koi lik"
+        },
+        {
+          "id": 1,
+          "Tekst": "Watch my stream on twitch.tv/LittleIndianBoy.com"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "Naslov": "Skalpirao manekenku, iščupao dijelove tijela i ostavio uz bebu",
+      "Rating": 0,
+      "Komentari": [
+        {
+          "id": 0,
+          "Tekst": "Koi lik"
+        },
+        {
+          "id": 1,
+          "Tekst": "Watch my stream on twitch.tv/LittleIndianBoy.com"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "Naslov": "Skalpirao manekenku, iščupao dijelove tijela i ostavio uz bebu",
+      "Rating": 0,
+      "Komentari": [
+        {
+          "id": 0,
+          "Tekst": "Koi lik"
+        },
+        {
+          "id": 1,
+          "Tekst": "Watch my stream on twitch.tv/LittleIndianBoy.com"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "Naslov": "Skalpirao manekenku, iščupao dijelove tijela i ostavio uz bebu",
+      "Rating": 0,
+      "Komentari": [
+        {
+          "id": 0,
+          "Tekst": "Koi lik"
+        },
+        {
+          "id": 1,
+          "Tekst": "Watch my stream on twitch.tv/LittleIndianBoy.com"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "Naslov": "Skalpirao manekenku, iščupao dijelove tijela i ostavio uz bebu",
+      "Rating": 0,
+      "Komentari": [
+        {
+          "id": 0,
+          "Tekst": "Koi lik"
+        },
+        {
+          "id": 1,
+          "Tekst": "Watch my stream on twitch.tv/LittleIndianBoy.com"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "Naslov": "Skalpirao manekenku, iščupao dijelove tijela i ostavio uz bebu",
+      "Rating": 0,
+      "Komentari": [
+        {
+          "id": 0,
+          "Tekst": "Koi lik"
+        },
+        {
+          "id": 1,
+          "Tekst": "Watch my stream on twitch.tv/LittleIndianBoy.com"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "Naslov": "Skalpirao manekenku, iščupao dijelove tijela i ostavio uz bebu",
+      "Rating": 0,
+      "Komentari": [
+        {
+          "id": 0,
+          "Tekst": "Koi lik"
+        },
+        {
+          "id": 1,
+          "Tekst": "Watch my stream on twitch.tv/LittleIndianBoy.com"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "Naslov": "Skalpirao manekenku, iščupao dijelove tijela i ostavio uz bebu",
+      "Rating": 0,
+      "Komentari": [
+        {
+          "id": 0,
+          "Tekst": "Koi lik"
+        },
+        {
+          "id": 1,
+          "Tekst": "Watch my stream on twitch.tv/LittleIndianBoy.com"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "Naslov": "Skalpirao manekenku, iščupao dijelove tijela i ostavio uz bebu",
+      "Rating": 0,
+      "Komentari": [
+        {
+          "id": 0,
+          "Tekst": "Koi lik"
+        },
+        {
+          "id": 1,
+          "Tekst": "Watch my stream on twitch.tv/LittleIndianBoy.com"
+        }
+      ]
+    }
+
+  ]
+}

@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html ng-app="DomaciApp">
+<head>
+    <meta charset="utf-8" />
+    <script src="Scripts/vendor/angular.js"></script>
+    <script src="Scripts/vendor/jquery-3.2.1.js"></script>
+    <script src="Scripts/vendor/LocalStorageModule.js"></script>
+    <script src="Scripts/vendor/lodash.js"></script>
+    <script src="Scripts/vendor/ui.router.js"></script>
+
+    <script src="Scripts/app/controllers/database.controller.js"></script>
+    <script src="Scripts/app/controllers/localstorage.controller.js"></script>
+    <script src="Scripts/app/app.js"></script>
+    <script src="Scripts/app/app.config.js"></script>    
+    <script src="Scripts/app/routes/home/home.route.js"></script>
+    <script src="Scripts/app/routes/home/home.controller.js"></script>
+    <script src="Scripts/app/routes/favourites/favourites.route.js"></script>
+    <script src="Scripts/app/routes/favourites/favourites.controller.js"></script>
+    <script src="Scripts/app/directives/posts/posts.directive.js"></script>
+    <script src="Scripts/app/routes/details/rating.filter.js"></script>
+    <script src="Scripts/app/directives/posts/posts.controller.js"></script>
+    <script src="Scripts/app/directives/comments/comments.directive.js"></script>
+    <script src="Scripts/app/directives/comments/comments.controller.js"></script>
+    <script src="Scripts/app/routes/details/details.route.js"></script>
+    <script src="Scripts/app/routes/details/details.controller.js"></script>
+
+    <title>Domaci</title>
+    <base href="/">
+</head>
+
+<body>
+    <div ui-view>
+    </div>
+</body>
+</html>

@@ -1,0 +1,10 @@
+﻿<div>
+    {{post.id}}
+    <br />
+    {{post.Naslov}}
+    <br />
+    <br />
+    <div>Rating: {{post.Rating | ratingFilter}}</div>
+    <br />
+    <comments comments="getComments(post.id)"></comments>
+</div>

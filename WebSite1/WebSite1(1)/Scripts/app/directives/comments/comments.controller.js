@@ -1,0 +1,1 @@
+﻿angular.module("DomaciApp").controller("commentsDirectiveController", function ($scope, localStorageService) {});

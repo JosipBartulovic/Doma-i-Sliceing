@@ -1,0 +1,20 @@
+﻿<input ng-model="filterInput" type="text" />
+<div ng-repeat="post in posts | filter: filterInput" >
+    <div>
+        {{post.id}}
+        <br />
+        <h2>{{post.Naslov}}</h2>
+        <br />
+        <br />
+        <button ng-hide="isFavourite(post.id)" ng-click="favourite(post.id)">Favourite</button>
+        <button ng-hide="!isFavourite(post.id)" ng-click="unFavourite(post.id)">UnFavourite</button>
+        <button ui-sref="details({id: post.id})">Details</button>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+    </div>
+</div>
